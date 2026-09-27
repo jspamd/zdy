@@ -6,6 +6,14 @@
 
 完成标准：能指出一个坏提示的问题，并改到输出可被程序解析。
 
+## 视频教程
+
+整门课：[ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)（吴恩达、Isa Fulford，约 1.5 小时）。B 站中文全 9 集：[BV1mc411K7vB](https://www.bilibili.com/video/BV1mc411K7vB/)。中文笔记见 [Datawhale llm-cookbook](https://github.com/datawhalechina/llm-cookbook)。
+
+- 2.1：第 2 集 Guidelines。对照角色、任务、约束、示例，看他们怎么把指令写具体。
+- 2.2 和 2.3：第 3 集 Iterative。看一次只改一处、再跑一次。JSON 字段练习用你自己的字段，不要只重复视频里的例子。
+- 第 8 集 Chatbot 留到模块 3。
+
 ## 课时
 
 <a id="2-1"></a>

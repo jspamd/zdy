@@ -6,6 +6,16 @@
 
 完成标准：有答案的问题能指出对应片段；无答案的问题不编造。
 
+## 视频教程
+
+[LangChain: Chat with Your Data](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/)（Harrison Chase）。B 站中英字幕：[BV148411D7d2](https://www.bilibili.com/video/BV148411D7d2/)。
+
+- 5.1：Document Splitting、Vectorstores and Embeddings。
+- 5.2：Retrieval。视频里的检索是主线；「把带指代的问题改写成独立句子」按本课练习自己做。
+- 5.3：Question Answering。课程不一定强调拒答，5 个问题里的 2 个拒答仍要你自己测。
+
+选看：[Building and Evaluating Advanced RAG](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/) 的 RAG Triad of metrics。它讲怎样判断片段和答案是否对得上，适合做完 5.3 再看。
+
 ## 课时
 
 <a id="5-1"></a>

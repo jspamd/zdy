@@ -6,6 +6,12 @@
 
 完成标准：能画出这一次请求经过了哪些步骤；循环不会无限跑。
 
+## 视频教程
+
+- 6.1：[Building Systems with the ChatGPT API](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/) 的 Chaining Prompts（[B 站 BV15N411k7bB](https://www.bilibili.com/video/BV15N411k7bB/)）。这是步骤写死的工作流。LangChain 课的 Chains 一集（[BV1gz421S73U](https://www.bilibili.com/video/BV1gz421S73U/) 第 4 集）是同一件事的框架写法，看一集即可。
+- 6.2：[AI Agents in LangGraph](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/) 的 Build an Agent from Scratch（约 12 分钟）。B 站：[BV1bi421v7oD](https://www.bilibili.com/video/BV1bi421v7oD/)。看模型决定下一步、程序执行、再把观察交回去。步数上限按本课练习改成 1 来验证。
+- 6.3：同一门课的 Persistence and Streaming，加上 LangChain 课的 Memory。视频里的持久化比本课练习多；练习只要求列出允许长期保存和禁止保存的内容。
+
 ## 课时
 
 <a id="6-1"></a>
